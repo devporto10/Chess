@@ -61,7 +61,7 @@ Editar
 ### 2. Instalação
 
 bash
-git clone https://github.com/seuusuario/xadrez-ia.git
+git clone https://github.com/devporto10/xadrez-ia.git
 cd xadrez-ia
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
